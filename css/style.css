@@ -147,7 +147,7 @@
 }
 .blog-text{
     float: right;
-    margin-left: 12%;
+    margin-left: 16%;
 }
 #readbtn{
     background-color: white;
@@ -167,6 +167,8 @@
 }
 
 
-  
+#protips{
+    padding-left: 7%;
+}
 
   
