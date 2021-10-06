@@ -149,6 +149,11 @@
     float: right;
     margin-left: 12%;
 }
+#readbtn{
+    background-color: white;
+    border: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 /* organize your kitchen */
  
@@ -160,6 +165,8 @@
     width: 16%;
     vertical-align: middle;
 }
+
+
   
 
   
